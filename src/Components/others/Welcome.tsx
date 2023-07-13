@@ -56,7 +56,7 @@ const Welcome = () => {
         <p
           className={`${styles.paragraph} justify-center items-center max-w-[470px] `}
         >
-          A live interactive simulation and generative self-portrait that explores methods of care to online beings and within online spaces. Here we go
+          A live interactive simulation and generative self-portrait that explores methods of care to online beings and within online spaces.
         </p>
         {magicPkh || beaconPkh ? (
           <>

@@ -11,4 +11,7 @@ export default defineConfig({
       stream: "vite-compatible-readable-stream"
     },
   },
+  build: {
+    outDir: 'github-pages'
+  }
 })

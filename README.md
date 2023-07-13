@@ -1,4 +1,4 @@
-# EuroTz - Front End
+# Tezos nft - Front End
 
 This repo is tezos nft dapp frontend, build with vite js, React TS
 
